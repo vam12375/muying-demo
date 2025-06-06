@@ -78,8 +78,34 @@
 - [后端API服务开发指南](./docs/development/backend.md)
 - [完整部署指南](./docs/deployment/README.md)
 
-## 项目截图
+## 项目演示
 
+### 演示视频
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>前台商城演示</strong><br/>
+        <a href="https://live.csdn.net/v/480130" target="_blank">
+          <img src="./docs/screenshots/frontend-home.png" alt="前台商城演示" width="100%" /><br/>
+          <span>点击观看演示视频 →</span>
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <strong>后台管理系统演示</strong><br/>
+        <a href="https://live.csdn.net/v/480131" target="_blank">
+          <img src="./docs/screenshots/admin-dashboard.png" alt="后台管理系统演示" width="100%" /><br/>
+          <span>点击观看演示视频 →</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+> 查看[详细功能演示文档](./docs/demo.md)获取更多系统功能的详细介绍和演示说明。
+
+### 界面预览
 <div align="center">
   <img src="./docs/screenshots/frontend-home.png" alt="前台首页" width="45%" />
   <img src="./docs/screenshots/admin-dashboard.png" alt="后台仪表盘" width="45%" />
@@ -98,6 +124,7 @@
 - [开发指南](./docs/development/README.md)
 - [部署指南](./docs/deployment/README.md)
 - [业务流程](./docs/business/README.md)
+- [功能演示](./docs/demo.md)
 
 ## 技术栈
 
