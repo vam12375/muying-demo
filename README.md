@@ -112,12 +112,12 @@
 
 ### 界面预览
 <div align="center">
-  <img src="./docs/screenshots/frontend-home.png" alt="前台首页" width="45%" />
-  <img src="./docs/screenshots/admin-dashboard.png" alt="后台仪表盘" width="45%" />
+  <img src="./docs/screenshots/frontend-home.gif" alt="前台首页" width="45%" />
+  <img src="./docs/screenshots/admin-dashboard.gif" alt="后台仪表盘" width="45%" />
 </div>
 
 <div align="center">
-  <img src="./docs/screenshots/frontend-product.png" alt="商品详情" width="45%" />
+  <img src="./docs/screenshots/frontend-product.gif" alt="商品详情" width="45%" />
   <img src="./docs/screenshots/admin-product.png" alt="商品管理" width="45%" />
 </div>
 
