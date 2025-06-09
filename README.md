@@ -87,17 +87,22 @@
     <tr>
       <td align="center" width="50%">
         <strong>前台商城演示</strong><br/>
-        <a href="https://live.csdn.net/v/480130" target="_blank">
-          <img src="./docs/screenshots/frontend-home.png" alt="前台商城演示" width="100%" /><br/>
-          <span>点击观看演示视频 →</span>
-        </a>
+        <!-- 使用GitHub支持的视频格式 -->
+        <img src="./docs/screenshots/frontend-home.png" alt="前台商城演示" width="100%" /><br/>
+        <p>
+          <a href="https://live.csdn.net/v/480130" target="_blank">
+            <img src="https://img.shields.io/badge/▶-观看前台视频演示-ff0000?style=for-the-badge&logo=youtube" alt="观看前台视频演示" />
+          </a>
+        </p>
       </td>
       <td align="center" width="50%">
         <strong>后台管理系统演示</strong><br/>
-        <a href="https://live.csdn.net/v/480131" target="_blank">
-          <img src="./docs/screenshots/admin-dashboard.png" alt="后台管理系统演示" width="100%" /><br/>
-          <span>点击观看演示视频 →</span>
-        </a>
+        <img src="./docs/screenshots/admin-dashboard.png" alt="后台管理系统演示" width="100%" /><br/>
+        <p>
+          <a href="https://live.csdn.net/v/480131" target="_blank">
+            <img src="https://img.shields.io/badge/▶-观看后台视频演示-ff0000?style=for-the-badge&logo=youtube" alt="观看后台视频演示" />
+          </a>
+        </p>
       </td>
     </tr>
   </table>
