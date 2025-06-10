@@ -118,7 +118,7 @@
 
 <div align="center">
   <img src="./docs/screenshots/frontend-product.png" alt="商品详情" width="45%" />
-  <img src="./docs/screenshots/admin-product.png" alt="商品管理" width="45%" />
+  <img src="./docs/screenshots/admin-dashboard.gif" alt="商品管理" width="45%" />
 </div>
 
 ## 文档导航
